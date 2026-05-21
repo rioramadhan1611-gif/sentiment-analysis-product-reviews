@@ -1,0 +1,21 @@
+id_ulasan,nama_produk,ulasan,rating_bintang,ulasan_bersih,sentimen,skor_sentimen
+1,Serum Vitamin C,"This serum is absolutely amazing, my skin feels so bright and smooth",5,this serum is absolutely amazing my skin feels so bright and smooth,Positif,0.567
+2,Serum Vitamin C,"Great product, very effective and the texture is lightweight",5,great product very effective and the texture is lightweight,Positif,0.79
+3,Serum Vitamin C,Not bad but a little expensive for the size,3,not bad but a little expensive for the size,Negatif,-0.113
+4,Serum Vitamin C,"Terrible product, caused breakout on my skin, very disappointed",1,terrible product caused breakout on my skin very disappointed,Negatif,-0.988
+5,Pelembab Aloe Vera,"Love this moisturizer, very hydrating and smells great",5,love this moisturizer very hydrating and smells great,Positif,0.5
+6,Pelembab Aloe Vera,"Good product, skin feels soft after using it",4,good product skin feels soft after using it,Positif,0.4
+7,Pelembab Aloe Vera,"The texture is too thick, not suitable for oily skin",2,the texture is too thick not suitable for oily skin,Negatif,-0.287
+8,Pelembab Aloe Vera,"Excellent moisturizer, best product I have ever used",5,excellent moisturizer best product i have ever used,Positif,1.0
+9,Sunscreen SPF 50,"This sunscreen is perfect, no white cast and very lightweight",5,this sunscreen is perfect no white cast and very lightweight,Positif,0.4
+10,Sunscreen SPF 50,"Great sun protection, love how it feels on my skin",5,great sun protection love how it feels on my skin,Positif,0.65
+11,Sunscreen SPF 50,"Average product, does the job but nothing special",3,average product does the job but nothing special,Positif,0.104
+12,Sunscreen SPF 50,"Horrible smell and leaves white cast, waste of money",1,horrible smell and leaves white cast waste of money,Negatif,-0.4
+13,Toner Niacinamide,"This toner works wonders, pores look smaller after one week",5,this toner works wonders pores look smaller after one week,Netral,0.0
+14,Toner Niacinamide,"Very refreshing and hydrating, will definitely repurchase",5,very refreshing and hydrating will definitely repurchase,Positif,0.325
+15,Toner Niacinamide,Okay product but took too long to see results,3,okay product but took too long to see results,Positif,0.225
+16,Toner Niacinamide,"Did not work for me at all, skin feels dry after using",2,did not work for me at all skin feels dry after using,Netral,-0.067
+17,Eye Cream Retinol,"Amazing eye cream, dark circles reduced significantly",5,amazing eye cream dark circles reduced significantly,Positif,0.275
+18,Eye Cream Retinol,Good product but the packaging is not practical,4,good product but the packaging is not practical,Positif,0.7
+19,Eye Cream Retinol,"Fantastic results after two weeks, highly recommend",5,fantastic results after two weeks highly recommend,Positif,0.28
+20,Eye Cream Retinol,Too expensive and did not see any visible results,1,too expensive and did not see any visible results,Negatif,-0.5
